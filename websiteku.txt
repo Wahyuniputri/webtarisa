@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<tittle>Tarisa Web</tittle>
+	</head>
+<body>
+<h3><font color ="blue"><marquee>Selamat Datang di Wensite Pribadiku</marquee></font></h3>
+
+</body>
+</html>
